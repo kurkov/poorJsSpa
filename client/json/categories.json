@@ -1,0 +1,7 @@
+{
+  "categories": [
+    {"id": 1, "name": "Music"},
+    {"id": 2, "name": "IT"},
+    {"id": 3, "name": "Medicine"}
+  ]
+}

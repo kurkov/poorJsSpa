@@ -1,0 +1,8 @@
+{
+  "name": "kickstarter",
+  "main": "server.js",
+  "dependencies": {
+    "node-static": "0.7.6"
+  }
+}
+
